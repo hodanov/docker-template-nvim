@@ -21,5 +21,13 @@
     "vscode-langservers-extracted": "^4.10.0",
     "yaml-language-server": "^1.18.0",
     "yarn": "^1.22.22"
+  },
+  "overrides": {
+    "markdownlint-cli2": {
+      "smol-toml": "^1.7.1"
+    },
+    "editorconfig": {
+      "minimatch": "^10.2.3"
+    }
   }
 }
